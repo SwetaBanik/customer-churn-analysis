@@ -62,6 +62,40 @@ In this project I have
 - Catplot: monthly charges by plan type, gender, and churn risk
 - Pivot tables summarizing churn, revenue, and customer counts by plan type
 
+## Data Analysis Insight
+
+1. Churn rate: 28.57% | Retention rate: 71.43% 
+2. Average tenure of customers is ~1,527 days (~4.2 years).
+3. Plan Type — Basic plan is the weak point
+    Basic: 60% churn
+    Standard: 22.22% churn
+    Premium: 14.29% churn (lowest)
+    → Customers on the cheapest plan churn 4x more than Premium customers.
+4.Subscription Type — Referral customers are the biggest risk, and least valuable
+    Referral: 83.33% churn, but only ₹1,524 total CLTV across the group
+    Paid: 16.67% churn, ₹7,410 CLTV
+    Organic: 0% churn, and the highest CLTV at ₹8,360
+    strongest finding: organic customers are both the most loyal and the most valuable, while referral-acquired customers churn hardest and contribute the least revenue — worth revisiting the referral program.
+5.Geography — churn and revenue don't move together
+    Karnataka: 100% churn (but small revenue base — ₹1,420)
+    Meghalaya: 66.67% churn
+    Telangana: 50% churn
+    Uttar Pradesh & Maharashtra: 0% churn, and the two highest-revenue states (₹4,140 and ₹3,027)
+    → High-churn states aren't your high-revenue states here, which matters for prioritizing retention spend.
+6.Revenue Impact
+    ARPU: ₹18.85/month
+    Revenue at risk from churned customers: ₹73.94/month combined
+    Interestingly, churned customers had a lower average monthly charge (₹12.32) than the overall ARPU — cheaper-plan customers are leaving, not your highest payers.
+7. % Revenue loss = 18%
+    monthly vs annual churn = 55.6% vs 8.3%
+8. Support & Escalations
+    Escalation rate: 19.05% of interactions
+    Correlation between escalation and churn: 0.47 — a moderate positive relationship, suggesting escalated support tickets are a real (though not sole) churn driver.
+    Average complaints per customer: 0.43.
+9. Most of the churn happened in the month of Sep 2024 and, most affected state is Karnataka
+
+
+
 ## 🗂️ Project Structure
 
 ```
