@@ -84,3 +84,22 @@ churn-analysis/
 - sqlite3
 - Jupyter Notebook
 
+## Visualization Output
+
+  <img width="692" height="315" alt="Monthly churn trend" src="https://github.com/user-attachments/assets/e9c89a37-b037-44c2-9ee6-e38ee791a5ca" />
+  <img width="1024" height="508" alt="weekwise_churn_trend" src="https://github.com/user-attachments/assets/f3192456-2e2c-4058-9557-84ba8cd5eccb" />
+  <img width="846" height="393" alt="Churn by plan_type" src="https://github.com/user-attachments/assets/ad7542d0-e4cd-45d6-8d37-c374cc74ae59" />
+  <img width="1010" height="392" alt="Churn count by state" src="https://github.com/user-attachments/assets/a9db8f91-7b7c-46e6-a1d3-85112e4aab73" />
+  <img width="1001" height="392" alt="Churn by state1" src="https://github.com/user-attachments/assets/9138dfbf-820d-410f-af60-1c1423c99581" />
+  <img width="610" height="501" alt="heatmap (correlation matrix)" src="https://github.com/user-attachments/assets/6650f9f9-e2a3-4309-98f3-107141f134d2" />
+  <img width="1476" height="1476" alt="pairplot -relationship in a dataset" src="https://github.com/user-attachments/assets/6f4d8ddc-0196-4845-801b-818a04180e84" />
+  <img width="1596" height="490" alt="catplot or facegrid plot" src="https://github.com/user-attachments/assets/11db255e-6f38-404c-baa5-8781d53cb150" />
+
+
+
+
+
+
+
+
+
