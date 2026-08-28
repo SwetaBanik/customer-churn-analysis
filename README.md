@@ -7,15 +7,6 @@ In this Project I have engineered an end-to-end churn analytics pipeline for an 
 
 In the hyper-competitive OTT landscape (Netflix, Hotstar, Prime), retention is the only way to survive. As a Business and Data Analyst I want to identifying high-risk subscribers using a multi-dimensional dataset (Customer demographics, Subscription tiers, and Support escalations).
 
-**Approach**
-
-An end-to-end exploratory data analysis of available database containing customer, subscription, and support-ticket data. 
-The project covers:
-1. Data cleaning
-2. Feature engineering
-3. KPI calculation
-4. visualization
-to understand who is churning, why, and where revenue is at risk.
 
 ## 📌 Project Overview
 
